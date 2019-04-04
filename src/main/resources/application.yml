@@ -1,0 +1,9 @@
+server:
+  port: 8088
+
+welcome:
+  message: "Seja bem vindo Blabla"
+
+dummyservice:
+  version: 22
+  description: "lololpop"
